@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecurityAndroid_HW1 </string>
+    <string name="congratulations_message">Congratulations!\n\nYou have successfully logged in!\n\nYou are a hacker!</string>
+    <string name="congrats_image_desc">Congratulations Image</string>
+</resources>
